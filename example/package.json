@@ -10,7 +10,7 @@
     "react": "15.2.1",
     "react-native": "^0.30.0",
     "react-native-camera-roll-picker": "^1.1.7",
-    "react-native-gifted-chat": "file:../",
+    "react-native-gifted-chat": "file:///Users/yanjzhou/Desktop/react/react-native-gifted-chat",
     "react-native-nav": "^1.1.4"
   },
   "devDependencies": {
